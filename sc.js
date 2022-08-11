@@ -6,19 +6,19 @@ function getDiaSemnas (diaDaSemana) {
             diaSemanaTexto = 'Domingo'; //caso for verdadeira ele ja vai parar por ai msm no break/return
             return diaSemanaTexto;
             case 1 :
-            diaSemanaTexto = 'Segunda';
+            diaSemanaTexto = 'Segunda-feira';
             return diaSemanaTexto;
             case 2 :
-            diaSemanaTexto = 'Terça';
+            diaSemanaTexto = 'Terça-feira';
             return diaSemanaTexto;
             case 3 :
-            diaSemanaTexto = 'Quarta';
+            diaSemanaTexto = 'Quarta-feira';
             return diaSemanaTexto;
             case 4 :
-            diaSemanaTexto = 'Quinta';
+            diaSemanaTexto = 'Quinta-feira';
             return diaSemanaTexto;
             case 5 :
-            diaSemanaTexto = 'Sexta';
+            diaSemanaTexto = 'Sexta-feira';
             return diaSemanaTexto;
             case 6 :
             diaSemanaTexto = 'Sabado';
